@@ -1,3 +1,5 @@
+# video-obj
+
 # 项目依赖
     view-design  （项目的UI组件库）
     vue-ls （用于从Vue上下文中使用本地Storage，会话Storage和内存Storage）       
@@ -8,8 +10,6 @@
     vuex （用于项目中的状态数据管理）
     vue-ueditor-wrap （用于项目中的富文本功能）
 
-
-# video-obj
 
 ## Project setup
 ```
